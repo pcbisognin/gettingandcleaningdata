@@ -6,6 +6,6 @@ This code will create a new folder called course-project in your working directo
 
 ## Code Book
 
-Train_and_test <- a table containing all values for the train and test sets
-mediaEdesvio <- table containing acitivities id, subjects id and all values for the mean and standard deviation for all characteriscs 
-mediaEdesvio_atividades <- table containing the data in the mediaEdesvio plus the activities labels
+* Train_and_test <- a table containing all values for the train and test sets
+* mediaEdesvio <- table containing acitivities id, subjects id and all values for the mean and standard deviation for all characteriscs 
+* mediaEdesvio_atividades <- table containing the data in the mediaEdesvio plus the activities labels
