@@ -1,6 +1,6 @@
-run_analysis <- function(fileURL="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip")
+run_analysis <- function()
   
-#a
+fileURL="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
   
     if (!getwd()=="./course-project") {
     dir.create("./course-project")
